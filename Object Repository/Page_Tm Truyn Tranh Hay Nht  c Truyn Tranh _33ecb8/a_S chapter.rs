@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_S chapter</name>
+   <tag></tag>
+   <elementGuidId>6bd35054-18b2-4670-80d4-6aaf5c85c64c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(9)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_mainContent_ctl00_divSort']/div[2]/div/a[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dd61c56a-d498-4234-8591-02206ad38225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>20bcec77-735d-4dc5-bad3-7d4a317cdaaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value> ?status=-1&amp;sort=30</value>
+      <webElementGuid>2a693e07-a181-4c17-8165-fcf37168733b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Số chapter</value>
+      <webElementGuid>62825279-3cfc-4c79-889b-da6278a98db5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_mainContent_ctl00_divSort&quot;)/div[@class=&quot;col-sm-9&quot;]/div[@class=&quot;hidden-xs&quot;]/a[9]</value>
+      <webElementGuid>71145787-d672-4102-aedd-ecbb3fd00c1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_mainContent_ctl00_divSort']/div[2]/div/a[9]</value>
+      <webElementGuid>28b8090d-6e3e-4e41-a341-0458bc29078c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='One Piece'])[1]/preceding::a[3]</value>
+      <webElementGuid>d0e06597-b250-4526-ae29-a29d604bde37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Số chapter']/parent::*</value>
+      <webElementGuid>d09ac82f-b59f-45d2-a2fb-69c459c6389c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, ' ?status=-1&amp;sort=30')]</value>
+      <webElementGuid>782bfb52-7370-4c2c-957c-1c3bb17e2786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[9]</value>
+      <webElementGuid>f329f428-f29a-4b1c-8433-9a07cd57ac21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = ' ?status=-1&amp;sort=30' and (text() = '  Số chapter' or . = '  Số chapter')]</value>
+      <webElementGuid>b642326f-51e4-4de1-8ac3-e86638605bc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

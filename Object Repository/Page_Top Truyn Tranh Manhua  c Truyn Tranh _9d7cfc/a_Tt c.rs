@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tt c</name>
+   <tag></tag>
+   <elementGuidId>1f323198-debb-4b7a-9aee-0d9a16d64fb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_mainContent_ctl00_ulStatus > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='ctl00_mainContent_ctl00_ulStatus']/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f260e332-4fd4-4d35-96a1-b293be0bf3cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>?status=-1&amp;sort=</value>
+      <webElementGuid>8275f06d-e358-4af4-895b-11bcc1d92f0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tất cả</value>
+      <webElementGuid>2d20dabb-4e22-41c2-8161-95d7f2d8eddf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_mainContent_ctl00_ulStatus&quot;)/li[1]/a[1]</value>
+      <webElementGuid>885e9ac0-0a6f-41e3-830f-39e0dfaf4aa9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='ctl00_mainContent_ctl00_ulStatus']/li/a</value>
+      <webElementGuid>dc62057f-f14c-485e-809b-19a9d850bbe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tất cả')]</value>
+      <webElementGuid>3a308b23-c178-40d6-8ba7-40507de66b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Truyện Tranh Manhua | Đọc Truyện Tranh Manhua Full | NetTruyen'])[2]/following::a[1]</value>
+      <webElementGuid>d573758b-94a8-4fdd-89f1-5ce0572a509b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thể loại'])[2]/following::a[1]</value>
+      <webElementGuid>afd56926-01da-4866-814d-811de1060dd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoàn thành'])[1]/preceding::a[1]</value>
+      <webElementGuid>3337cf47-064b-402c-b22b-b5bcf695d64f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đang tiến hành'])[1]/preceding::a[2]</value>
+      <webElementGuid>6bfd7640-d506-412f-8c2b-3016a3b1ce76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '?status=-1&amp;sort=')]</value>
+      <webElementGuid>856a2af3-7143-4770-b319-178da28c7f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/ul/li/a</value>
+      <webElementGuid>53d97202-185a-4701-8a81-5d65b104d6bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '?status=-1&amp;sort=' and (text() = 'Tất cả' or . = 'Tất cả')]</value>
+      <webElementGuid>23ec4786-5c03-48ac-bcd9-b06a4515e883</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

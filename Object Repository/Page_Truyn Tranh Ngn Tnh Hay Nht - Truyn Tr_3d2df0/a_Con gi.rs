@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Con gi</name>
+   <tag></tag>
+   <elementGuidId>530abf7e-6a84-48e5-a4dd-90f3ab3aecb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='mainNav']/div/div/div/div/ul/li[10]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.open > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b0076076-4698-4a22-a352-afe5ef30cae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>c3d11c31-500b-4a61-bd71-b178a7a57e1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>f05c745b-be90-4535-9404-fb053464da85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/truyen-tranh-con-gai</value>
+      <webElementGuid>53d7ee7f-cc26-4def-a751-bd59c3edb752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Con gái</value>
+      <webElementGuid>0aaa2d7b-b9db-48d8-ada9-913aa861901d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainNav&quot;)/div[@class=&quot;inner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;Module Module-144&quot;]/div[@class=&quot;ModuleContent&quot;]/ul[@class=&quot;nav navbar-nav main-menu&quot;]/li[@class=&quot;open&quot;]/a[1]</value>
+      <webElementGuid>91a8cf7b-b50a-41c5-9491-cc6c9be85363</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='mainNav']/div/div/div/div/ul/li[10]/a</value>
+      <webElementGuid>3f7963ba-48d2-445e-b6f5-35e1d2032662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Con gái')]</value>
+      <webElementGuid>016570b9-eeaf-4b02-9739-847eb8dd37d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ngôn tình'])[1]/following::a[1]</value>
+      <webElementGuid>81256f6f-0e22-4502-9470-3eb12f37167f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manhwa'])[2]/following::a[2]</value>
+      <webElementGuid>6ac19a83-ad62-4b85-8711-7f1af67d5de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Con trai'])[1]/preceding::a[1]</value>
+      <webElementGuid>1601a23e-c140-4955-ad9a-72c4b425b9d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nettruyenrr.com'])[1]/preceding::a[2]</value>
+      <webElementGuid>0967b9b5-5e3d-40a9-80f3-a3846185b6c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Con gái']/parent::*</value>
+      <webElementGuid>b63d6b1b-b504-45ff-afbc-e9d8e8f33c54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/truyen-tranh-con-gai')]</value>
+      <webElementGuid>7b32af67-de4c-41d9-bef6-6612de37a5da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/a</value>
+      <webElementGuid>0b72bd42-721d-417f-a714-0c1ec7ede3e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/truyen-tranh-con-gai' and (text() = 'Con gái' or . = 'Con gái')]</value>
+      <webElementGuid>3e1a0d5f-1514-46fe-9b72-cde6a7554477</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

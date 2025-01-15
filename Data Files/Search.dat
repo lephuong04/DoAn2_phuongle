@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Search</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>6e091163-727c-4a79-b97c-a7b5421b2ca9</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>tim+kiem</data>
+   <data>%C4%91%E1%BA%A3o+</data>
+   <data>%C4%91%E1%BA%A3o+h%E1%BA%A3i+t%E1%BA%B7c</data>
+   <data>xyz123</data>
+   <data>null</data>
+   <data>%24%25%5E%26</data>
+   <data>dao+hai+tac</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>search </name>
+      <size>7</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

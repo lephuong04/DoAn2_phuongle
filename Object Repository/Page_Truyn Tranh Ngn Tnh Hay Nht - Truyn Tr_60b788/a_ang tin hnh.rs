@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ang tin hnh</name>
+   <tag></tag>
+   <elementGuidId>65cf0b7f-999d-4d81-8cdd-b4e02ab83d7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_mainContent_ctl00_ulStatus > li.active > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='ctl00_mainContent_ctl00_ulStatus']/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f7909207-1c0d-44e5-a082-ca09aa3e2860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>?status=1&amp;sort=</value>
+      <webElementGuid>e8d0a523-9e81-4759-9cb4-df0193b51d16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đang tiến hành</value>
+      <webElementGuid>72097bcb-2253-4495-8032-1667af6c81c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_mainContent_ctl00_ulStatus&quot;)/li[@class=&quot;active&quot;]/a[1]</value>
+      <webElementGuid>4788ade8-36a2-42b3-8246-381e571e6a2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='ctl00_mainContent_ctl00_ulStatus']/li[3]/a</value>
+      <webElementGuid>05f79491-2c2b-4aac-8bbd-a331c584595e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Đang tiến hành')]</value>
+      <webElementGuid>a98d8059-6539-46d2-8e11-98863dec5aaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoàn thành'])[1]/following::a[1]</value>
+      <webElementGuid>504773af-d298-41a7-bd12-5fcc3413a0a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tất cả'])[3]/following::a[2]</value>
+      <webElementGuid>bd7c9d93-24d8-47bf-a6c4-6c80e7735700</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sắp xếp theo:'])[1]/preceding::a[1]</value>
+      <webElementGuid>ba3d41f1-47b8-4383-bd60-89154fe10e36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đang tiến hành']/parent::*</value>
+      <webElementGuid>01deeeba-f596-4956-b1ae-ded71d24ae2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '?status=1&amp;sort=')]</value>
+      <webElementGuid>4b4f303f-03ce-4036-a0a4-1f5c1ca62ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/ul/li[3]/a</value>
+      <webElementGuid>88a089aa-b5bd-452e-ab88-a333ed055247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '?status=1&amp;sort=' and (text() = 'Đang tiến hành' or . = 'Đang tiến hành')]</value>
+      <webElementGuid>30c5d3d2-33fc-40ba-b7bc-ddd055c2b49a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

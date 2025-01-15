@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mt khu     Ghi nh</name>
+   <tag></tag>
+   <elementGuidId>27ecfb7a-5a16-4f98-b9ce-ea0e900a4158</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_mainContent_login1_LoginCtrl_pnlLContainer']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>64dce235-3ae7-4284-a61a-7a295dee8d1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group</value>
+      <webElementGuid>193041eb-3ac0-4532-b07c-ec4408ca90e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Mật khẩu     Ghi nhớ  </value>
+      <webElementGuid>17d33fe9-4935-45b6-8017-a910aff1b6f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_mainContent_login1_LoginCtrl_pnlLContainer&quot;)/div[@class=&quot;form-group&quot;]</value>
+      <webElementGuid>0736ea95-2d1d-4c31-8dd5-f76e01a44fd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_mainContent_login1_LoginCtrl_pnlLContainer']/div[2]</value>
+      <webElementGuid>12345c34-db16-4e82-9b60-8f8b2e23296b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[1]</value>
+      <webElementGuid>0be4da52-6a7a-41bf-939f-0f607055de3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[3]/following::div[3]</value>
+      <webElementGuid>67b38748-d736-449b-8aa4-3fdb6894f6af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>9db49b5a-fce9-4a1f-b127-e9a9540b86e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Mật khẩu     Ghi nhớ  ' or . = '  Mật khẩu     Ghi nhớ  ')]</value>
+      <webElementGuid>5f875a0d-54d5-41ca-b359-49f76a65a860</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

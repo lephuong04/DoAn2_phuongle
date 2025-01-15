@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Chap mi nht</name>
+   <tag></tag>
+   <elementGuidId>c8d27d61-6191-409c-9511-8b509a661145</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_divCenter']/div/div[2]/div/div/div/section/div[2]/table/thead/tr/th[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>fb3bd5d2-bec7-4542-880a-e08c10fcc409</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nowrap</value>
+      <webElementGuid>b136af15-977c-414d-893c-550903faa30d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chap mới nhất</value>
+      <webElementGuid>ebb74c45-40f6-4e9c-9f69-4ed6d9bee70a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_divCenter&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 col-sm-8&quot;]/div[@class=&quot;user-page clearfix&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/section[@class=&quot;comics-followed comics-followed-nopaging user-table clearfix&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table&quot;]/thead[1]/tr[1]/th[@class=&quot;nowrap&quot;]</value>
+      <webElementGuid>92f74fbc-40dc-4557-84eb-5269bbe0b2e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_divCenter']/div/div[2]/div/div/div/section/div[2]/table/thead/tr/th[4]</value>
+      <webElementGuid>a721e4fe-9aea-4eb8-b47c-174f20334108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem gần nhất'])[1]/following::th[1]</value>
+      <webElementGuid>1f3bf45f-69d1-4414-8839-b938d3f3cebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên truyện'])[1]/following::th[2]</value>
+      <webElementGuid>6a9f58f5-24bd-42bc-90f3-009bc26c514d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ta Trời Sinh Đã Là Nhân Vật Phản Diện'])[1]/preceding::th[1]</value>
+      <webElementGuid>35e2fcde-cc6e-46a1-a458-546ff901f693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bỏ theo dõi'])[1]/preceding::th[1]</value>
+      <webElementGuid>d1d4f927-0e1a-4a6f-b0c7-5cee3e817abe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chap mới nhất']/parent::*</value>
+      <webElementGuid>cb2cd5d4-5e9d-4ddd-abf1-3c5059799eae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]</value>
+      <webElementGuid>671d46f5-4296-48d1-a4af-06242610264a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Chap mới nhất' or . = 'Chap mới nhất')]</value>
+      <webElementGuid>20163ec0-dfad-4ffc-99ab-5984a29c10b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

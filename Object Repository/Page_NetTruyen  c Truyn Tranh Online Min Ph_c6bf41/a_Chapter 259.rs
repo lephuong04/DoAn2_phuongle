@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Chapter 259</name>
+   <tag></tag>
+   <elementGuidId>1bd44f6c-912c-4bb0-aa4e-08437cf17571</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/main/div[2]/div[2]/div[1]/div/div/div[1]/div[2]/div[7]/figure/figcaption/ul/li[1]/a&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Chapter 259&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3e188012-c5a3-424f-83f1-d8c099ad59b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>757093</value>
+      <webElementGuid>a06e0afa-db3e-4e4a-9881-63ec3f1f62d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nettruyenrr.com/truyen-tranh/ta-troi-sinh-da-la-nhan-vat-phan-dien/chapter-259/757093</value>
+      <webElementGuid>d8ddab86-3972-4b6c-a04e-ffc99a14a513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Chapter 259</value>
+      <webElementGuid>ee0d920d-5b01-4861-b6c9-b8cf4918c18f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Chapter 259 </value>
+      <webElementGuid>0c55bcb1-52ae-46ce-b9be-c42dce6bdd5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_divCenter&quot;)/div[@class=&quot;Module Module-163&quot;]/div[@class=&quot;ModuleContent&quot;]/div[@class=&quot;items&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;item&quot;]/figure[@class=&quot;clearfix&quot;]/figcaption[1]/ul[@class=&quot;comic-item&quot;]/li[@class=&quot;chapter clearfix&quot;]/a[1]</value>
+      <webElementGuid>c8952202-3d89-41b9-8231-56702cac007e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_divCenter']/div/div/div/div[2]/div[7]/figure/figcaption/ul/li/a</value>
+      <webElementGuid>9ebd5a53-7240-4108-bd81-d073a29bc3e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Chapter 259')]</value>
+      <webElementGuid>55979610-f2cf-4a25-b7c0-5ef753a812cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ta Trời Sinh Đã Là Nhân Vật Phản Diện'])[1]/following::a[1]</value>
+      <webElementGuid>733c9ea6-31cf-4714-81b6-1fc527d7c37a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ngày cập nhật:'])[6]/following::a[3]</value>
+      <webElementGuid>33309c57-452f-4ec4-8171-27ecc20068f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chapter 258'])[1]/preceding::a[1]</value>
+      <webElementGuid>b18d19ca-103c-4beb-852c-2b34a13719df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chapter 257.5'])[1]/preceding::a[2]</value>
+      <webElementGuid>0596c052-e8be-4f75-944c-f50db0467596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chapter 259']/parent::*</value>
+      <webElementGuid>dba5ac77-41b7-4d3e-ac6b-d6cd22119b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nettruyenrr.com/truyen-tranh/ta-troi-sinh-da-la-nhan-vat-phan-dien/chapter-259/757093')]</value>
+      <webElementGuid>8fc10bf1-25bd-4916-b1df-62b7e6df26f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/figure/figcaption/ul/li/a</value>
+      <webElementGuid>1c44702a-9058-480b-9c13-000a0f6c0b12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nettruyenrr.com/truyen-tranh/ta-troi-sinh-da-la-nhan-vat-phan-dien/chapter-259/757093' and @title = 'Chapter 259' and (text() = ' Chapter 259 ' or . = ' Chapter 259 ')]</value>
+      <webElementGuid>5399bcc9-72a1-4dd8-b034-c87fdb38ce4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

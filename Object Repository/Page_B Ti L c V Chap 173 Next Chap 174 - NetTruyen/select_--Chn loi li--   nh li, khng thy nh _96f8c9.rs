@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--Chn loi li--   nh li, khng thy nh _96f8c9</name>
+   <tag></tag>
+   <elementGuidId>d851a0ef-46b0-4d29-a04e-9c10a4b33fd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#report_error_title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='report_error_title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>de2748da-2d8a-456e-9f9d-c8fdccb67d2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>report_error_title</value>
+      <webElementGuid>e0d1685f-6eb6-474b-8339-2077e5d4bb8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>$('.note').text($(this).children('option:selected').attr('note')); $('.empty_error').css('display', 'none');</value>
+      <webElementGuid>85371890-3b2f-4db0-8ff0-d79c10e41788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  --Chọn loại lỗi--   Ảnh lỗi, không thấy ảnh   Chapter bị trùng   Chapter chưa dịch   Up sai truyện   Truyện 18+   Lỗi khác   </value>
+      <webElementGuid>0fceeba1-5b2d-4338-8bb3-3747357fd0af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;report_error_title&quot;)</value>
+      <webElementGuid>c1e2bf77-c1ac-4218-9ea8-36193fa80f3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='report_error_title']</value>
+      <webElementGuid>2d117d84-e383-4af7-8ab7-c54d23513f1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popup_content']/div/ul/li/select</value>
+      <webElementGuid>f99ffe0a-1030-4fb1-8317-294b3280bcdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Báo lỗi'])[1]/following::select[1]</value>
+      <webElementGuid>6837b1b6-3061-4dac-839e-4393ad65c70a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='X'])[3]/following::select[1]</value>
+      <webElementGuid>c74894f1-f4ae-426b-9fef-870886835b70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vui lòng chọn loại lỗi !'])[1]/preceding::select[1]</value>
+      <webElementGuid>bf886fe2-cdf3-4411-a26a-34d88ab9b156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mô tả chi tiết lỗi để được ưu tiên fix sớm nhất.'])[1]/preceding::select[1]</value>
+      <webElementGuid>8cfc9a0d-c32e-4f7a-8dae-afe846014bc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>9a499fb4-b0e1-4762-8574-0993ea2cca11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'report_error_title' and (text() = '  --Chọn loại lỗi--   Ảnh lỗi, không thấy ảnh   Chapter bị trùng   Chapter chưa dịch   Up sai truyện   Truyện 18+   Lỗi khác   ' or . = '  --Chọn loại lỗi--   Ảnh lỗi, không thấy ảnh   Chapter bị trùng   Chapter chưa dịch   Up sai truyện   Truyện 18+   Lỗi khác   ')]</value>
+      <webElementGuid>4df4434a-4d00-4b38-bc2a-16fc8fa0ee15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

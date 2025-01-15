@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_S dng mi tn tri () hoc phi ()  chuyn chap_438ddf</name>
+   <tag></tag>
+   <elementGuidId>8bbf013d-c07d-4e4e-8df9-5e516881c628</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.prev.a_prev</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chapterNav']/a[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a49eb9a9-becf-4df6-8240-ff8652b67e0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nettruyenrr.com/truyen-tranh/huyen-tuong-tho-san-tai-di-gioi/chapter-26/28</value>
+      <webElementGuid>ea6ae455-47e8-4d13-958a-2ed67672bcd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prev a_prev</value>
+      <webElementGuid>cfaca1f8-83e1-4908-b366-64f712b2e866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chapterNav&quot;)/a[@class=&quot;prev a_prev&quot;]</value>
+      <webElementGuid>b59cfa1e-4ee1-43b3-a9d4-71b5bd461308</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chapterNav']/a[4]</value>
+      <webElementGuid>6e3d5e9b-a523-47c3-bf55-5ce27cd0b669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sử dụng mũi tên trái (←) hoặc phải (→) để chuyển chapter'])[1]/following::a[4]</value>
+      <webElementGuid>7ce8a323-f38a-44fd-82b7-3575606af25b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Báo lỗi'])[2]/following::a[4]</value>
+      <webElementGuid>073d3850-f606-4903-bf2d-9385ece814a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bỏ theo dõi'])[1]/preceding::a[2]</value>
+      <webElementGuid>c57616a1-407c-4ab1-880c-548940d3c7d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Theo dõi'])[2]/preceding::a[3]</value>
+      <webElementGuid>66d07d8f-dce8-4e69-9e4d-a4b9d0f76f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nettruyenrr.com/truyen-tranh/huyen-tuong-tho-san-tai-di-gioi/chapter-26/28')]</value>
+      <webElementGuid>4ee7d1ff-fba3-4f41-9ce3-b2d9c794acf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a[4]</value>
+      <webElementGuid>b9ac4518-9ed3-449a-afd1-f2f83aa8920e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nettruyenrr.com/truyen-tranh/huyen-tuong-tho-san-tai-di-gioi/chapter-26/28']</value>
+      <webElementGuid>7039ef80-608d-4caf-88c6-827290acae41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

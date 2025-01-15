@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Top Follow</name>
+   <tag></tag>
+   <elementGuidId>878949c0-7131-4b76-a02c-fdda99fc346e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(10)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_mainContent_ctl00_divSort']/div[2]/div/a[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c3b0d345-025e-4066-8c13-56b8dbe5c26e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>c9f786b0-8538-481b-8865-1e98195046b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value> ?status=1&amp;sort=19</value>
+      <webElementGuid>f88fee5b-3f39-4885-9e29-50f3b9d16951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Top Follow</value>
+      <webElementGuid>3e090fc9-f763-41b4-9e80-b79cb00120c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_mainContent_ctl00_divSort&quot;)/div[@class=&quot;col-sm-9&quot;]/div[@class=&quot;hidden-xs&quot;]/a[10]</value>
+      <webElementGuid>79c712ee-b02d-4b3c-afb7-6d763c43e3ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_mainContent_ctl00_divSort']/div[2]/div/a[10]</value>
+      <webElementGuid>7e7cfe7f-e055-4a36-bfe9-153f68f4565f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Võ Luyện Đỉnh Phong'])[1]/preceding::a[2]</value>
+      <webElementGuid>8ccf6de4-2736-43bd-885f-809ba652c238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chapter 3809'])[1]/preceding::a[3]</value>
+      <webElementGuid>0851b874-b11c-4023-a033-779940ad7a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Top Follow']/parent::*</value>
+      <webElementGuid>540315cc-8c3e-406a-a656-68eb10820ba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, ' ?status=1&amp;sort=19')]</value>
+      <webElementGuid>0b060df3-75f3-46f5-8c68-af57a589e5a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[10]</value>
+      <webElementGuid>37a39309-813c-4230-8229-ab1068d0eb6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = ' ?status=1&amp;sort=19' and (text() = '  Top Follow' or . = '  Top Follow')]</value>
+      <webElementGuid>127bc4af-4da0-4ca8-a092-169d8ec14983</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

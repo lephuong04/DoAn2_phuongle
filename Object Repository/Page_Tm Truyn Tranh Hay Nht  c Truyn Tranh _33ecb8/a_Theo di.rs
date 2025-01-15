@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Theo di</name>
+   <tag></tag>
+   <elementGuidId>69d9dea5-f188-414e-bc6f-99df4e91274f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(7)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_mainContent_ctl00_divSort']/div[2]/div/a[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>02259ab5-1e83-4a7c-873b-52febb32d3dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>4e62e893-c748-432b-b3da-61dd8a56ccad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value> ?status=-1&amp;sort=20</value>
+      <webElementGuid>c53fea4f-86f0-48fb-a651-69d9d2b5facf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Theo dõi</value>
+      <webElementGuid>0d0e700b-e962-44a6-9d5c-2eb65e4d6bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_mainContent_ctl00_divSort&quot;)/div[@class=&quot;col-sm-9&quot;]/div[@class=&quot;hidden-xs&quot;]/a[7]</value>
+      <webElementGuid>7d3d2a05-fbe8-4fae-8242-4a3952c65c27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_mainContent_ctl00_divSort']/div[2]/div/a[7]</value>
+      <webElementGuid>fab4592d-7174-4ed4-841f-fa1d0ed463e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, ' ?status=-1&amp;sort=20')]</value>
+      <webElementGuid>c40e706a-8c27-4f43-9183-af8d479cbb74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[7]</value>
+      <webElementGuid>d6233794-28ab-4d27-806c-9d19c4d613be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = ' ?status=-1&amp;sort=20' and (text() = '  Theo dõi' or . = '  Theo dõi')]</value>
+      <webElementGuid>59b8354e-def5-4bcf-a74a-fde8d6e5da91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

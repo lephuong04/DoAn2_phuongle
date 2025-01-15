@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Ti khon  ng nhp ng k</name>
+   <tag></tag>
+   <elementGuidId>ca5b5f30-bccd-4df9-a58c-b6d7e5981493</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.dropdown.open</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>33458669-c687-4da7-a377-b23f70e4e604</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown open</value>
+      <webElementGuid>a9b5d3a5-9450-469a-a01d-e04eacf811b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tài khoản  Đăng nhập Đăng ký</value>
+      <webElementGuid>6c052119-f8b6-4ca2-b8cf-02b8ed654cab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;navbar&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;nav-account list-inline hidden-xs pull-right&quot;]/li[@class=&quot;dropdown open&quot;]</value>
+      <webElementGuid>238744d2-5f98-48fe-a1fb-6338f69e92fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/div/ul/li</value>
+      <webElementGuid>b66a85c7-fb92-40b9-8afc-c57071ce3481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>c0be2b05-f4c5-4b03-b2c6-f7031389cca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Tài khoản  Đăng nhập Đăng ký' or . = ' Tài khoản  Đăng nhập Đăng ký')]</value>
+      <webElementGuid>646e7ca4-40fa-47ff-be7f-b9c65d82ce94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

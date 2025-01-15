@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bo li</name>
+   <tag></tag>
+   <elementGuidId>805afd33-5b33-4f1e-b4ae-8b73a3e1465a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.alertError.btn.btn-warning</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/main/div[6]/div/div/div/div[1]/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>df0e377b-61a5-4a78-bd4d-9b9f6599db4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>2b815b4d-10a3-4bff-8c47-7855efeb9e7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>fc93f0e6-1e99-45c3-953a-7ad5eca1da8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alertError btn btn-warning</value>
+      <webElementGuid>7ec348d7-8a6a-432d-8ee3-e0b9ba624de2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Báo lỗi</value>
+      <webElementGuid>1c69e153-7bb1-4cb4-b82e-cd95e60a11a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_divCenter&quot;)/div[@class=&quot;reading&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;reading-control&quot;]/div[@class=&quot;mrb10&quot;]/a[@class=&quot;alertError btn btn-warning&quot;]</value>
+      <webElementGuid>32d10064-fe95-46be-bba7-cbc9c8e34fb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_divCenter']/div/div/div[2]/div[2]/a</value>
+      <webElementGuid>3d48afd7-1757-44b0-ab1b-9797cb81845a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Báo lỗi')]</value>
+      <webElementGuid>88067aa5-4d7b-4d17-a0bf-e792e4d590ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Server 2'])[1]/following::a[1]</value>
+      <webElementGuid>8b13a254-2ec8-4328-9385-3f4ff3928270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Server 1'])[1]/following::a[2]</value>
+      <webElementGuid>b559b201-4ac9-48a7-ba4f-9c2762c48b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sử dụng mũi tên trái (←) hoặc phải (→) để chuyển chapter'])[1]/preceding::a[1]</value>
+      <webElementGuid>c48f14f5-21ac-4e27-b062-e7dd67558ac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bỏ theo dõi'])[1]/preceding::a[6]</value>
+      <webElementGuid>768cd2eb-a046-42c6-9bfc-1e4199b96822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[2]</value>
+      <webElementGuid>18acefb4-f9df-458e-b2a7-b6354e9b3293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div[2]/a</value>
+      <webElementGuid>4cc31491-c624-4355-ac3f-f1485f938365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = ' Báo lỗi' or . = ' Báo lỗi')]</value>
+      <webElementGuid>54523a00-35b0-4de6-8c74-889a9ce7c3c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

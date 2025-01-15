@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Top thng_1</name>
+   <tag></tag>
+   <elementGuidId>fe55c804-c3e8-48b2-884b-d62ecf7923d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(4)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_mainContent_ctl00_divSort']/div[2]/div/a[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>19e56178-d175-4203-9c86-02fd2d743adf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>0b45ca4b-efe7-4eb1-a872-43e9057cc797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value> ?status=2&amp;sort=11</value>
+      <webElementGuid>141580cb-87f4-456a-9f42-d45955952628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Top tháng</value>
+      <webElementGuid>c7f784b8-5d9f-4b65-b47a-7fec03384d1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_mainContent_ctl00_divSort&quot;)/div[@class=&quot;col-sm-9&quot;]/div[@class=&quot;hidden-xs&quot;]/a[4]</value>
+      <webElementGuid>318421c2-ad0c-46fe-821f-e1203d407c37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_mainContent_ctl00_divSort']/div[2]/div/a[4]</value>
+      <webElementGuid>308a4522-9c4f-41b4-98a5-0cdb9f857c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Top tháng']/parent::*</value>
+      <webElementGuid>db8f580d-d0ac-471b-afdc-e5828343ba81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, ' ?status=2&amp;sort=11')]</value>
+      <webElementGuid>6d3bf9dd-8edf-4770-a57c-4955e52e2c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]</value>
+      <webElementGuid>02e4fda4-9650-4e40-b273-dfffe194c834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = ' ?status=2&amp;sort=11' and (text() = '  Top tháng' or . = '  Top tháng')]</value>
+      <webElementGuid>57a3c8ea-fd3d-4e3b-a529-f599986cd6a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

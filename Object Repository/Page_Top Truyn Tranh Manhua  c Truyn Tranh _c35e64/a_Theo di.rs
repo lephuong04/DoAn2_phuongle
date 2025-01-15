@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Theo di</name>
+   <tag></tag>
+   <elementGuidId>f4147d66-2781-4f00-9dc6-7979352c8c3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='mainNav']/div/div/div/div/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.theo-doi.open > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2dc04a75-2be9-4142-9147-dd2606f97ee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>20acb84d-cf5a-4c26-ae3e-dd7e302ee166</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/theo-doi</value>
+      <webElementGuid>3cdfb5cf-a3af-432a-b1e3-b6344a09a7cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Theo dõi</value>
+      <webElementGuid>e46d0724-8ed1-4eb0-a6d1-a93f5d288719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainNav&quot;)/div[@class=&quot;inner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;Module Module-144&quot;]/div[@class=&quot;ModuleContent&quot;]/ul[@class=&quot;nav navbar-nav main-menu&quot;]/li[@class=&quot;theo-doi open&quot;]/a[1]</value>
+      <webElementGuid>eb62c0e7-70f4-4fbc-a6cf-1ec9cf5e5805</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='mainNav']/div/div/div/div/ul/li[3]/a</value>
+      <webElementGuid>e55a05f3-44a1-42fd-a1e3-08af7e81d46c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Theo dõi')]</value>
+      <webElementGuid>1d4d3ce8-0ca4-4245-a706-75b806b2f8c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot'])[1]/following::a[1]</value>
+      <webElementGuid>a07df862-cc35-4e52-bda4-dfe5f2e798ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang chủ'])[1]/following::a[2]</value>
+      <webElementGuid>2dc9c885-6485-4b36-86f1-93b1d287ce8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lịch sử'])[1]/preceding::a[1]</value>
+      <webElementGuid>ca166332-af5b-4ce4-a774-5b493c9d7bda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thể loại'])[1]/preceding::a[2]</value>
+      <webElementGuid>9091fa16-2e37-4c42-a208-fd8f2746e56f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Theo dõi']/parent::*</value>
+      <webElementGuid>e2459ea7-33e4-4afb-b027-b6ef31d60dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/theo-doi')]</value>
+      <webElementGuid>14b45beb-5e6a-4936-bb29-26bddbf557ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>8f40fc2f-5259-464c-9c05-26915e6d54fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/theo-doi' and (text() = 'Theo dõi' or . = 'Theo dõi')]</value>
+      <webElementGuid>81b73749-4b99-4bb9-a470-40636cadd40a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

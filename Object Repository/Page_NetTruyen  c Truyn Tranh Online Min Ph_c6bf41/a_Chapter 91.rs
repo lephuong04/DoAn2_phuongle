@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Chapter 91</name>
+   <tag></tag>
+   <elementGuidId>7b45dd47-3295-41ac-83a5-030644edfb1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_divCenter']/div/div/div/div[2]/div[16]/figure/figcaption/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>81ae3463-605b-45cb-b4e5-342b623569f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>725784</value>
+      <webElementGuid>5034f43c-2d81-463f-974c-1044aa90ac61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nettruyenrr.com/truyen-tranh/ta-chi-muon-bi-cac-vi-danh-chet/chapter-91/725784</value>
+      <webElementGuid>7f0ee32a-52f7-44f4-818a-ff0a922efc31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Chapter 91</value>
+      <webElementGuid>74802b5c-27aa-4fff-a6ac-ff038457bc6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Chapter 91 </value>
+      <webElementGuid>bcd599a7-807b-4a61-b38e-313667f8519f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_divCenter&quot;)/div[@class=&quot;Module Module-163&quot;]/div[@class=&quot;ModuleContent&quot;]/div[@class=&quot;items&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;item&quot;]/figure[@class=&quot;clearfix&quot;]/figcaption[1]/ul[@class=&quot;comic-item&quot;]/li[@class=&quot;chapter clearfix&quot;]/a[1]</value>
+      <webElementGuid>b9924b88-fa85-4a3b-adec-c73e783b08ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_divCenter']/div/div/div/div[2]/div[16]/figure/figcaption/ul/li/a</value>
+      <webElementGuid>7a96ca35-a264-45c1-a3d2-a5665044161c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Chapter 91')])[2]</value>
+      <webElementGuid>ef88bec2-a366-41ba-8627-f15d585cc24e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ta Chỉ Muốn Bị Các Vị Đánh Chết'])[1]/following::a[1]</value>
+      <webElementGuid>2a0bcd10-fb6b-4da2-a227-4704e0ff8aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ngày cập nhật:'])[15]/following::a[3]</value>
+      <webElementGuid>c0b279d1-95d5-40aa-8ab4-69d5fdb1525c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chapter 90'])[1]/preceding::a[1]</value>
+      <webElementGuid>53bd9dff-aa88-43e4-9e75-bd2ccd2e48e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chapter 89'])[1]/preceding::a[2]</value>
+      <webElementGuid>9fdc60fa-8ab3-4bf9-9c73-660e69edef3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nettruyenrr.com/truyen-tranh/ta-chi-muon-bi-cac-vi-danh-chet/chapter-91/725784')]</value>
+      <webElementGuid>8d17db4a-febb-41ca-bf0b-8f7f97ae6dd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/figure/figcaption/ul/li/a</value>
+      <webElementGuid>abb5922d-b457-4df3-9251-21aba0f7c4e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nettruyenrr.com/truyen-tranh/ta-chi-muon-bi-cac-vi-danh-chet/chapter-91/725784' and @title = 'Chapter 91' and (text() = ' Chapter 91 ' or . = ' Chapter 91 ')]</value>
+      <webElementGuid>df57d4d5-6c5d-4825-97ab-29c048e13536</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

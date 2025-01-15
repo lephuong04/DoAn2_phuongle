@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_o Hi Tc_searchbutton btn btn-default</name>
+   <tag></tag>
+   <elementGuidId>8c3ed9b8-78d1-43f9-a952-21af69e172f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.searchbutton.btn.btn-default</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e0a2c9ed-4eb0-4399-8e6a-b6c3f8c69b1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>9459341b-ea4b-49ac-9dc9-1d70cad982b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>searchbutton btn btn-default</value>
+      <webElementGuid>a4f5ab20-662c-4612-804e-ff3cc2ec9adf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;navbar&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;navbar-header&quot;]/div[@class=&quot;navbar-form navbar-left hidden-xs search-box comicsearchbox&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-btn&quot;]/input[@class=&quot;searchbutton btn btn-default&quot;]</value>
+      <webElementGuid>cd181471-274a-49fb-b2c1-9900b61d9ca9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>ee9873f8-a611-409e-94f3-d32addbe434f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/div/div/div[2]/div/div/input</value>
+      <webElementGuid>632930d2-bb6d-43d7-84b5-a124f06d2ee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/input</value>
+      <webElementGuid>ec05b210-1f51-49e5-b030-cff931861f9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>da907cb3-4007-462b-ab9b-65d74deef2a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

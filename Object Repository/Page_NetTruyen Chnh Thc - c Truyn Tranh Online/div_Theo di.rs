@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Theo di</name>
+   <tag></tag>
+   <elementGuidId>0b63612f-2a08-44b9-aee2-58d07a271632</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_divCenter']/div/div[2]/div/div/div/section/div[2]/table/tbody/tr/td[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.follow-action</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>99659ae7-d783-467c-bc4d-1a3fb0fe5748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>follow-action</value>
+      <webElementGuid>4b50d8ab-98cd-4c0c-978e-e2b9e4923ba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Theo dõi </value>
+      <webElementGuid>3355dc00-e715-4b82-87c5-73722dd53277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_divCenter&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 col-sm-8&quot;]/div[@class=&quot;user-page clearfix&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/section[@class=&quot;comics-followed comics-followed-nopaging user-table clearfix&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[@class=&quot;unread&quot;]/td[2]/div[@class=&quot;follow-action&quot;]</value>
+      <webElementGuid>8bd0bc2c-2eb9-4dc5-bfcb-ce42ed4109d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_divCenter']/div/div[2]/div/div/div/section/div[2]/table/tbody/tr/td[2]/div</value>
+      <webElementGuid>ca5b9ea9-ab4e-4f32-aa3d-8ef50007b98f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ta Trời Sinh Đã Là Nhân Vật Phản Diện'])[1]/following::div[1]</value>
+      <webElementGuid>06b92b91-da4a-4cc7-89a6-6709ff610b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chap mới nhất'])[1]/following::div[1]</value>
+      <webElementGuid>55d590b4-8105-4385-85e2-6d5010874a54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div</value>
+      <webElementGuid>b14f1524-fcb0-4747-bf90-fdd19b9db17f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Theo dõi ' or . = '  Theo dõi ')]</value>
+      <webElementGuid>435bd959-3aed-46cd-a33f-7f2be69b4746</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Chapter 27</name>
+   <tag></tag>
+   <elementGuidId>7b22a9d9-0438-4d7d-a37e-a761c8da3192</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Chapter 27&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_divCenter']/div/div/div/div[2]/div[7]/figure/figcaption/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e77581e2-1cfb-4a6f-a4c9-854cf92a92dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>124529</value>
+      <webElementGuid>fd879e00-4a0f-49ea-a337-e620ccdab55f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nettruyenrr.com/truyen-tranh/yeu-tuc-son/chapter-27/124529</value>
+      <webElementGuid>25e65ebd-5cd9-46b5-ba9f-76c17911575f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Chapter 27</value>
+      <webElementGuid>522716ea-7be5-496b-afdd-7553bf40baea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Chapter 27 </value>
+      <webElementGuid>e75c848d-468c-4e39-838c-02af5521f7b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_divCenter&quot;)/div[@class=&quot;Module Module-163&quot;]/div[@class=&quot;ModuleContent&quot;]/div[@class=&quot;items&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;item&quot;]/figure[@class=&quot;clearfix&quot;]/figcaption[1]/ul[@class=&quot;comic-item&quot;]/li[@class=&quot;chapter clearfix&quot;]/a[1]</value>
+      <webElementGuid>3bffee12-d70b-4fc2-b9e3-a5afcf5e6cc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_divCenter']/div/div/div/div[2]/div[7]/figure/figcaption/ul/li[2]/a</value>
+      <webElementGuid>3d037d5d-3d22-495a-bc4d-0e8b0697d827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Chapter 27')]</value>
+      <webElementGuid>18d85ad9-5d68-4249-9082-c71ea5803199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chapter 28'])[1]/following::a[1]</value>
+      <webElementGuid>5d3fc5d7-4749-43a1-9bc5-ea96b1487599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yêu Túc Sơn'])[1]/following::a[2]</value>
+      <webElementGuid>34b0881a-04d8-4b29-95d1-783ddaa5b01b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chapter 26'])[1]/preceding::a[1]</value>
+      <webElementGuid>abaaf15c-8879-4296-8051-5033ad6d4e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yêu Túc Sơn'])[2]/preceding::a[2]</value>
+      <webElementGuid>85d59e1b-4b75-4c41-9b59-266906181778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chapter 27']/parent::*</value>
+      <webElementGuid>891c4c95-8344-4ddb-bd39-5c55eb13e22f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nettruyenrr.com/truyen-tranh/yeu-tuc-son/chapter-27/124529')]</value>
+      <webElementGuid>115e00ed-ecde-4f82-819b-baf48d991f35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/figure/figcaption/ul/li[2]/a</value>
+      <webElementGuid>082f4ecf-6c0d-46b3-aeb7-19507b1ffada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nettruyenrr.com/truyen-tranh/yeu-tuc-son/chapter-27/124529' and @title = 'Chapter 27' and (text() = ' Chapter 27 ' or . = ' Chapter 27 ')]</value>
+      <webElementGuid>38fafe68-49e5-4b8a-bf0b-8c0c676df89c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_divCenter']/div/div/div/div[2]/div[3]/figure/figcaption/ul/li/a</value>
+      <webElementGuid>59c739cb-130d-46a2-8014-91481698e7a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Chapter 27')])[2]</value>
+      <webElementGuid>eb44fc6e-4eb4-426c-a332-662ef54e8298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Huyễn Tượng Thợ Săn Tại Dị Giới'])[1]/following::a[1]</value>
+      <webElementGuid>4cc94d18-44ff-4cdc-aca4-330a586e44e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ngày cập nhật:'])[2]/following::a[3]</value>
+      <webElementGuid>fa435839-c4f2-4c0e-8ffb-3c6e610e1806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chapter 25'])[1]/preceding::a[2]</value>
+      <webElementGuid>ed29ed40-f718-471e-803e-4d4724a6c8de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nettruyenrr.com/truyen-tranh/huyen-tuong-tho-san-tai-di-gioi/chapter-27/29')]</value>
+      <webElementGuid>e2ea9eda-891f-47a3-98df-3dc5c574b2a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/figure/figcaption/ul/li/a</value>
+      <webElementGuid>0326f05d-416e-436d-84ec-2bbf76f746b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nettruyenrr.com/truyen-tranh/huyen-tuong-tho-san-tai-di-gioi/chapter-27/29' and @title = 'Chapter 27' and (text() = ' Chapter 27 ' or . = ' Chapter 27 ')]</value>
+      <webElementGuid>ec8b81e5-0854-4f68-bfe3-3ddd3d505dd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

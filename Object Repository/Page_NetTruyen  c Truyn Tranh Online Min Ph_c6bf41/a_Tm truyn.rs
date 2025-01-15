@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tm truyn</name>
+   <tag></tag>
+   <elementGuidId>6e5f8b12-2723-4ff9-bf3e-a9afb0eb4b29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.open > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='mainNav']/div/div/div/div/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>14171d42-c8f3-4987-9320-aa0ac0391a6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>48b42f22-163d-4aaa-9a8e-348963ec4455</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tim-truyen</value>
+      <webElementGuid>27ab357a-53e4-4427-ad18-e9800426cb70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tìm truyện</value>
+      <webElementGuid>d9dac311-29f2-43dc-8ef7-c5a01268157a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainNav&quot;)/div[@class=&quot;inner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;Module Module-144&quot;]/div[@class=&quot;ModuleContent&quot;]/ul[@class=&quot;nav navbar-nav main-menu&quot;]/li[@class=&quot;open&quot;]/a[1]</value>
+      <webElementGuid>59cfdfe3-7eec-410e-861b-e150abfcd280</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='mainNav']/div/div/div/div/ul/li[6]/a</value>
+      <webElementGuid>fc7751de-7870-4b8c-a133-26bae8d8b90f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tìm truyện')]</value>
+      <webElementGuid>1064afd4-485a-422c-aca5-5ba55635cc91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bảo Tàng Truyện'])[1]/following::a[1]</value>
+      <webElementGuid>14229253-1a29-475f-b8dd-81674fb7434d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VyComycs - Tủ Sách Nhỏ'])[1]/following::a[2]</value>
+      <webElementGuid>5af74cc5-1dde-4eb7-a2d7-8ae7af032352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manhua'])[2]/preceding::a[1]</value>
+      <webElementGuid>37839597-2d64-49b1-9cc9-f6586bd559a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manhwa'])[2]/preceding::a[2]</value>
+      <webElementGuid>63bc1f20-90a6-47df-a47f-740622a2ba71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tìm truyện']/parent::*</value>
+      <webElementGuid>e8c10241-fe38-46f8-a5d8-8634cc4896df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/tim-truyen')])[45]</value>
+      <webElementGuid>bbd89b32-d48c-4557-a587-f1782fde9b62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>355b0f16-192c-427b-81d1-ebbbbfcc656d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tim-truyen' and (text() = 'Tìm truyện' or . = 'Tìm truyện')]</value>
+      <webElementGuid>a4b69490-7256-4218-bd1f-f775cd84487a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

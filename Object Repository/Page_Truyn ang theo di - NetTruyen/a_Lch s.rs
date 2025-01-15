@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lch s</name>
+   <tag></tag>
+   <elementGuidId>167b05d7-1146-4c07-a750-9bcf3aaa05e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.open > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='mainNav']/div/div/div/div/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b939b326-ba96-44ae-a40f-7ee1571b9845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>06bb5327-8733-4b3c-81f9-d39be1b52d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/lich-su-truyen-tranh</value>
+      <webElementGuid>eccab48e-034c-4b24-b593-9d2850d5a19e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lịch sử</value>
+      <webElementGuid>de391a3e-4d57-4d60-bd80-84af338bbb0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainNav&quot;)/div[@class=&quot;inner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;Module Module-144&quot;]/div[@class=&quot;ModuleContent&quot;]/ul[@class=&quot;nav navbar-nav main-menu&quot;]/li[@class=&quot;open&quot;]/a[1]</value>
+      <webElementGuid>002bed31-ee7b-471f-b112-227b6f869068</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='mainNav']/div/div/div/div/ul/li[4]/a</value>
+      <webElementGuid>1f17c261-05f6-4ae8-834e-d6afcc0db4c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lịch sử')]</value>
+      <webElementGuid>5dc8065f-92b9-481a-b099-31401ceea4ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Theo dõi'])[1]/following::a[1]</value>
+      <webElementGuid>85e19552-e92c-4a88-a36c-d53b51e1c564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot'])[1]/following::a[2]</value>
+      <webElementGuid>bccf9d74-8b44-46e9-8cfd-5542caeb3e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thể loại'])[1]/preceding::a[1]</value>
+      <webElementGuid>ec0310cf-1777-4bdf-91d8-5ffad617df55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tất cả'])[1]/preceding::a[2]</value>
+      <webElementGuid>61cbe8cf-a3a6-484d-9ce1-36fa6e0f1619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lịch sử']/parent::*</value>
+      <webElementGuid>0d199d03-8258-4a62-aa0d-592ea35411cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/lich-su-truyen-tranh')]</value>
+      <webElementGuid>a3c05412-97e7-4386-9e4c-7b84cf5d6504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>9f3987ce-fac4-49e4-931c-04eab62ca571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/lich-su-truyen-tranh' and (text() = 'Lịch sử' or . = 'Lịch sử')]</value>
+      <webElementGuid>a4238576-7d24-4e05-b260-86acd65bf377</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

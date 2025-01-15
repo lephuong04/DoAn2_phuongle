@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_S dng mi tn tri () hoc phi ()  chuyn chap_7f68fe</name>
+   <tag></tag>
+   <elementGuidId>2a40b739-5fa2-455b-bae5-499666d75792</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-undo.error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chapterNav']/a[3]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e4c5973c-3868-4dc5-9be7-88d6a5471395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-undo error</value>
+      <webElementGuid>a1a7b3a7-d2e4-45b8-a713-35f9dfe4bde6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chapterNav&quot;)/a[@class=&quot;home changeserver&quot;]/i[@class=&quot;fa fa-undo error&quot;]</value>
+      <webElementGuid>d43c651f-2614-4b15-b4f5-13cd5fcb4c30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chapterNav']/a[3]/i</value>
+      <webElementGuid>dacabc9b-f81b-42f2-bf19-698269126a8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/i</value>
+      <webElementGuid>ea6553ab-6a0d-43f9-99d8-520ac97e76ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Thin Ti on Mnh</name>
+   <tag></tag>
+   <elementGuidId>9873f435-3372-44ca-9ef4-62bdd862985a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_divCenter']/div/div/div/div[2]/div[11]/figure/figcaption/h3/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>adc475ac-96c8-4a67-a03b-44b36a827dd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jtip</value>
+      <webElementGuid>64016fcc-f051-4dce-8647-a34d6eaffba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-jtip</name>
+      <type>Main</type>
+      <value>#truyen-tranh-26141</value>
+      <webElementGuid>1a0a10f2-4f63-41d5-a616-4802c9ebaff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nettruyenrr.com/truyen-tranh/thien-tai-doan-menh-26141</value>
+      <webElementGuid>0028a39a-f3a2-4579-acdc-16aa9c3ae1ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Thiên Tài Đoản Mệnh </value>
+      <webElementGuid>94e574e6-3e00-4f0f-a4ff-5acc2e3a9362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_divCenter&quot;)/div[@class=&quot;Module Module-163&quot;]/div[@class=&quot;ModuleContent&quot;]/div[@class=&quot;items&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;item&quot;]/figure[@class=&quot;clearfix&quot;]/figcaption[1]/h3[1]/a[@class=&quot;jtip&quot;]</value>
+      <webElementGuid>fb1dd290-97b7-4e2a-8dd1-ae6a51a58304</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_divCenter']/div/div/div/div[2]/div[11]/figure/figcaption/h3/a</value>
+      <webElementGuid>386cb7fd-60db-49f0-8995-8c0175157ac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Thiên Tài Đoản Mệnh')]</value>
+      <webElementGuid>ff361334-374e-4d9a-b608-54468d957d6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ngày cập nhật:'])[10]/following::a[2]</value>
+      <webElementGuid>f944323b-173e-47b9-a9cd-0e304bad571b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Theo dõi:'])[10]/following::a[2]</value>
+      <webElementGuid>397e4953-9067-4cd6-8a97-733eefe35236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chapter 22'])[1]/preceding::a[1]</value>
+      <webElementGuid>0e944126-b1c5-48f6-bf16-e477c9446387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chapter 21'])[2]/preceding::a[2]</value>
+      <webElementGuid>3f8e87e2-1f9c-4b66-ae77-fa0274513086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thiên Tài Đoản Mệnh']/parent::*</value>
+      <webElementGuid>eec6b14e-7a0b-42fd-a4b7-7479418cc2a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://nettruyenrr.com/truyen-tranh/thien-tai-doan-menh-26141')])[2]</value>
+      <webElementGuid>6671be4d-d090-46ca-be17-3468a6279c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/figure/figcaption/h3/a</value>
+      <webElementGuid>9119a596-0375-41b8-b4cb-78dbf31bd090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nettruyenrr.com/truyen-tranh/thien-tai-doan-menh-26141' and (text() = ' Thiên Tài Đoản Mệnh ' or . = ' Thiên Tài Đoản Mệnh ')]</value>
+      <webElementGuid>b226aeac-cfbb-4afa-9538-9c010ef1b4ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

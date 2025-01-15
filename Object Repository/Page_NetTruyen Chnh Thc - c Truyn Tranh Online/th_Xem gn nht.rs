@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Xem gn nht</name>
+   <tag></tag>
+   <elementGuidId>f28ad07f-18ab-4cdd-9b12-fb4311ff6205</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_divCenter']/div/div[2]/div/div/div/section/div[2]/table/thead/tr/th[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>531fafea-2c6b-4ea0-9ae5-98fb562e1593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nowrap</value>
+      <webElementGuid>acf5c88c-c450-416a-b915-4c9386b0bd7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xem gần nhất</value>
+      <webElementGuid>a32d67b3-8d5e-4dbc-8163-07c40c76c751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_divCenter&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 col-sm-8&quot;]/div[@class=&quot;user-page clearfix&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/section[@class=&quot;comics-followed comics-followed-nopaging user-table clearfix&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table&quot;]/thead[1]/tr[1]/th[@class=&quot;nowrap&quot;]</value>
+      <webElementGuid>d2290e9d-ef61-4c16-8820-2634b4e47b77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_divCenter']/div/div[2]/div/div/div/section/div[2]/table/thead/tr/th[3]</value>
+      <webElementGuid>fa2acedf-2e51-4ea2-80a0-0e000311f8ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên truyện'])[1]/following::th[1]</value>
+      <webElementGuid>4e156cad-dfcf-46a3-ad49-5c24797b0de6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Truyện mới đọc gần đây sẽ hiển thị ở đầu danh sách.'])[1]/following::th[3]</value>
+      <webElementGuid>eacc9e69-564d-42b2-8372-fe4001be15c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chap mới nhất'])[1]/preceding::th[1]</value>
+      <webElementGuid>2f29fb8c-cd99-4a39-b979-2877587f1fb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ta Trời Sinh Đã Là Nhân Vật Phản Diện'])[1]/preceding::th[2]</value>
+      <webElementGuid>6d8f61eb-c4ea-40b5-974c-41e79e0b9b63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Xem gần nhất']/parent::*</value>
+      <webElementGuid>c884ccc3-6d43-4152-9869-7597b7e98133</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]</value>
+      <webElementGuid>1ff370c1-f9f4-42c6-a0ea-644ba45b2ed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Xem gần nhất' or . = 'Xem gần nhất')]</value>
+      <webElementGuid>4d1f26d6-8c56-4eb9-aaee-ebdd5c6179e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

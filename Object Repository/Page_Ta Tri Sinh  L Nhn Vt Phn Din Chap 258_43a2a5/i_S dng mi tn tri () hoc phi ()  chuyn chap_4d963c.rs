@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_S dng mi tn tri () hoc phi ()  chuyn chap_4d963c</name>
+   <tag></tag>
+   <elementGuidId>b8e1375c-0285-4056-8f47-6d86630007d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-chevron-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chapterNav']/a[5]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>40ff4cf9-315a-4a05-8f4a-c119941ecb0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-chevron-right</value>
+      <webElementGuid>29d5524c-c099-42df-afca-a16a6c86f6e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chapterNav&quot;)/a[@class=&quot;next a_next&quot;]/i[@class=&quot;fa fa-chevron-right&quot;]</value>
+      <webElementGuid>cb9bd74d-887d-4550-8e69-faa2e3be77e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chapterNav']/a[5]/i</value>
+      <webElementGuid>9b1ef8b8-2350-4ef1-a6e9-b4a0a1642fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/i</value>
+      <webElementGuid>5ae3a515-d95e-481f-9cc7-0fb3b78be55f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

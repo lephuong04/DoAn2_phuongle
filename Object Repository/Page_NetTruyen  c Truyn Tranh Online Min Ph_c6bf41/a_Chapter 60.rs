@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Chapter 60</name>
+   <tag></tag>
+   <elementGuidId>e8155080-b8c2-4be7-854e-3680319df2cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.chapter.clearfix > a[title=&quot;Chapter 60&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/main/div[2]/div[2]/div[1]/div/div/div[1]/div[2]/div[4]/figure/figcaption/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>18551a70-21b2-4971-8b01-22a590703eed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>63</value>
+      <webElementGuid>21b7463d-e155-49a8-b9a7-ec7d9ba93f48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nettruyenrr.com/truyen-tranh/long-mieu/chapter-60/63</value>
+      <webElementGuid>2b79a197-9632-493d-95fb-469ebddfed45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Chapter 60</value>
+      <webElementGuid>d32a4a94-8c0b-4af4-b7d8-4c006f139b14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Chapter 60 </value>
+      <webElementGuid>a9303a8d-27c5-4255-8714-e01f34642368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_divCenter&quot;)/div[@class=&quot;Module Module-163&quot;]/div[@class=&quot;ModuleContent&quot;]/div[@class=&quot;items&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;item&quot;]/figure[@class=&quot;clearfix&quot;]/figcaption[1]/ul[@class=&quot;comic-item&quot;]/li[@class=&quot;chapter clearfix&quot;]/a[1]</value>
+      <webElementGuid>0bb43041-5608-408f-aba8-555820459af8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_divCenter']/div/div/div/div[2]/div[4]/figure/figcaption/ul/li[2]/a</value>
+      <webElementGuid>8b6ffcef-c290-4681-934e-64ee31d8d955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Chapter 60')])[2]</value>
+      <webElementGuid>0ed76f2f-014a-4df3-9af1-02ba35620453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chapter 61'])[1]/following::a[1]</value>
+      <webElementGuid>2fb87a2c-3e86-4c58-83ef-57c25f7ebbc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Long Miêu'])[1]/following::a[2]</value>
+      <webElementGuid>8b25517d-5dd9-4e71-9df4-55dc4d2673da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chapter 59'])[1]/preceding::a[1]</value>
+      <webElementGuid>edf13118-8630-417f-b683-820c4b0743f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Long Miêu'])[2]/preceding::a[2]</value>
+      <webElementGuid>2325b93f-aec1-4bf1-9caf-e0a50d52b9ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nettruyenrr.com/truyen-tranh/long-mieu/chapter-60/63')]</value>
+      <webElementGuid>d565bf55-666f-4939-be52-68fbd730ba55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/figure/figcaption/ul/li[2]/a</value>
+      <webElementGuid>0d6c8023-51f6-405b-b79b-df99172a4892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nettruyenrr.com/truyen-tranh/long-mieu/chapter-60/63' and @title = 'Chapter 60' and (text() = ' Chapter 60 ' or . = ' Chapter 60 ')]</value>
+      <webElementGuid>e678ac6d-25ec-4090-ab5f-448ce52bf7a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_ng k_fa fa-pencil-square-o</name>
+   <tag></tag>
+   <elementGuidId>69ef3723-69c1-4ecb-b1a5-4ce02b9b6504</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/div/ul/li/ul/li[2]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-pencil-square-o</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5bb11bd8-8ffe-4367-b112-038300467edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-pencil-square-o</value>
+      <webElementGuid>74089ad2-0c3a-4b0b-a3dc-bf5dd6bf0f51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;navbar&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;nav-account list-inline hidden-xs pull-right&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[@class=&quot;register-link&quot;]/a[1]/i[@class=&quot;fa fa-pencil-square-o&quot;]</value>
+      <webElementGuid>a8429666-11d8-468e-872c-131d7cfc97cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/div/ul/li/ul/li[2]/a/i</value>
+      <webElementGuid>162e9525-3ad1-4f2c-adab-c6aeb3ed930b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/i</value>
+      <webElementGuid>3be5e8c1-0c87-4551-99b4-0c8bf09dfc93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

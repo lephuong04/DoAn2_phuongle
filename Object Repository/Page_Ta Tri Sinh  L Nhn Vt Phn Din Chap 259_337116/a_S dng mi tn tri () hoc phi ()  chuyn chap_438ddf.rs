@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_S dng mi tn tri () hoc phi ()  chuyn chap_438ddf</name>
+   <tag></tag>
+   <elementGuidId>733bf476-06ae-471b-b336-509d6a104f66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/main/div[6]/div/div/div/div[1]/div[2]/div[4]/a[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.prev.a_prev</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c912b5e0-0571-40f4-80e3-e7da89206fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nettruyenrr.com/truyen-tranh/ta-troi-sinh-da-la-nhan-vat-phan-dien/chapter-258/757091</value>
+      <webElementGuid>68611d38-78c7-4d1c-b34a-ac96ce139429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prev a_prev</value>
+      <webElementGuid>1ccfb702-192d-4a0a-8c9b-c79b7060017d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chapterNav&quot;)/a[@class=&quot;prev a_prev&quot;]</value>
+      <webElementGuid>9a53abf8-c8ff-457b-86ce-9dcef7a4e55f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chapterNav']/a[4]</value>
+      <webElementGuid>56323244-a0de-4abf-b6f7-617768db7571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sử dụng mũi tên trái (←) hoặc phải (→) để chuyển chapter'])[1]/following::a[4]</value>
+      <webElementGuid>769692b8-f1fd-494b-b6d1-05f793b3b331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Báo lỗi'])[2]/following::a[4]</value>
+      <webElementGuid>fca255de-6da6-40ae-8e14-7216653b23d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bỏ theo dõi'])[1]/preceding::a[2]</value>
+      <webElementGuid>dacebcbe-d8bd-4de2-8149-6a0dc0eef4a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Theo dõi'])[2]/preceding::a[3]</value>
+      <webElementGuid>44683aea-3193-4097-a285-d7a1abd429a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nettruyenrr.com/truyen-tranh/ta-troi-sinh-da-la-nhan-vat-phan-dien/chapter-258/757091')]</value>
+      <webElementGuid>64865026-d913-4125-a18a-08cca46cb544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a[4]</value>
+      <webElementGuid>86df0465-8024-4a4e-9601-74cdce06d0b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nettruyenrr.com/truyen-tranh/ta-troi-sinh-da-la-nhan-vat-phan-dien/chapter-258/757091']</value>
+      <webElementGuid>fcd65c4a-1748-4b50-8da9-f8c9a2a2fbbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
